@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "MI.Platform.Api": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 5000",
+      "launchBrowser": false
+    }
+  }
+}
